@@ -1,4 +1,4 @@
-﻿# Shell Command Executor Agent with Strands
+﻿# Shell Command Executor Agent with Strands Agents SDK
 
 (This agent currently does not ask for permission to run a command-- Contributions are welcome.)
 
